@@ -3,4 +3,8 @@
 //for every multiple of 5 print buzz
 // multiples of 3 and 5 will read fizzbuzz
 
+fizzBuzz();
 
+function fizzBuzz() {
+    
+}
